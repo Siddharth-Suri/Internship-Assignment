@@ -1,8 +1,8 @@
 # Attached Images
 
-![Screenshot](./assets/image1.png "App Screenshot")
-![Screenshot](./assets/image2.png "App Screenshot")
-![Screenshot](./assets/image3.png "App Screenshot")
+![Screenshot](./src/assets/image1.png "App Screenshot")
+![Screenshot](./src/assets/image2.png "App Screenshot")
+![Screenshot](./src/assets/image3.png "App Screenshot")
 
 ## React + TypeScript + Vite
 
